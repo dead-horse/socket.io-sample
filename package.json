@@ -1,0 +1,9 @@
+{
+  "name": "socket.io_example",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "latest",
+    "ejs": "latest"
+  }
+}
